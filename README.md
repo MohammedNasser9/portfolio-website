@@ -6,7 +6,6 @@ A modern, fully responsive portfolio website built with React, TypeScript, and T
 
 The portfolio website is live and hosted on Vercel. Check it out here:
 
-- **Production:** [portfolio-website-kh5jtnmti-mohammed-nassers-projects-38ad76d5.vercel.app](https://portfolio-website-kh5jtnmti-mohammed-nassers-projects-38ad76d5.vercel.app)
 - **Preview / Domains:** [portfolio-website-five-tau-kt3osfqt7j.vercel.app](https://portfolio-website-five-tau-kt3osfqt7j.vercel.app)
 
 ## 🎨 Features
