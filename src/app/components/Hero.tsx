@@ -81,7 +81,7 @@ export function Hero() {
                 <div className="text-sm text-[#64748b]">Projects Completed</div>
               </div>
               <div>
-                <div className="text-3xl font-bold text-[#135bec]">4+</div>
+                <div className="text-3xl font-bold text-[#135bec]">100%</div>
                 <div className="text-sm text-[#64748b]">Happy Clients</div>
               </div>
             </motion.div>
